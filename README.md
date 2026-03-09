@@ -1,5 +1,6 @@
 # ---
 
+```shell
 git clone https://github.com/shakebpatel/task-master.git
 cd task-master
 git config --local user.name "shakebpatel"
@@ -10,14 +11,15 @@ npm install
 npm run lint
 npm run build
 npm run dev
+```
 
 ==========
 
-https://react.dev/learn/creating-a-react-app
-https://github.com/shakebpatel/task-master
-http://localhost:3000/
-https://vercel.com/shakebpatel5-6993s-projects/task-master/deployments
-https://task-master-shak.vercel.app/
+- https://react.dev/learn/creating-a-react-app
+- https://github.com/shakebpatel/task-master
+- http://localhost:3000/
+- https://vercel.com/shakebpatel5-6993s-projects/task-master/deployments
+- https://task-master-shak.vercel.app/
 
 # ---
 
